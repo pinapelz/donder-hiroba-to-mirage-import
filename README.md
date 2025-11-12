@@ -30,11 +30,11 @@ python3 -m venv venv
 
 From here you need to get your token. There are 2 ways to do this
 
-# Option 1: Use Cookie-Editor Extension
+## Option 1: Use Cookie-Editor Extension
 1. Download the browser extension [Cookie-Editor](cookie-editor.com)
 2. Click on the extension and click `_token_v2`, then copy the Value there. That's it!
 
-# Option 2: Use Browser Network Tab (slightly more complicated)
+## Option 2: Use Browser Network Tab (slightly more complicated)
 1. Right click the page and click Inspect/Inspect Elements
 2. Click on the "Network" tab
 <img width="961" height="38" alt="image" src="https://github.com/user-attachments/assets/7a4e85b8-e577-4316-8b69-46cba12343ce" />
