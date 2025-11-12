@@ -134,7 +134,10 @@ def get_play_hist(token: str, chart_data):
                 if src in DIFFICULTY_MAP:
                     difficulty = DIFFICULTY_MAP[src]
                 elif src in CROWN_MAP:
-                    crown = CROWN_MAP[src]
+                    if src not in CROWN_MAP:
+                        crown = "NOT CLEAR"
+                    else:
+                        crown = CROWN_MAP[src]
                 elif src in LAMP_MAP:
                     lamp = LAMP_MAP[src]
 
