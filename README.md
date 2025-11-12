@@ -30,7 +30,7 @@ python3 -m venv venv
 
 From here you need to get your token. There are 2 ways to do this
 
-## Option 1: Use Cookie-Editor Extension
+## Option 1: Use Cookie-Editor Extension (Easy)
 1. Download the browser extension [Cookie-Editor](cookie-editor.com)
 2. Click on the extension and click `_token_v2`, then copy the Value there. That's it!
 
