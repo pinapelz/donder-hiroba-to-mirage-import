@@ -26,7 +26,7 @@ python3 -m venv venv
 <img width="304" height="56" alt="image" src="https://github.com/user-attachments/assets/49f65ee8-a609-4b9c-a10c-fcd95412770f" />
 
 3. Refresh your data by clicking on this icon:  <img width="51" height="38" alt="image" src="https://github.com/user-attachments/assets/efd9a501-6b9d-4585-bf86-15a1a4c320c7" />
- on the rop right corner
+ on the top right corner
 
 From here you need to get your token. There are 2 ways to do this
 
