@@ -3,8 +3,10 @@ This repository contains the script to import from Donder Hiroba to [Mirage](htt
 
 # 1. Setup the script
 
-## OPTION A - Executable File (Easy)
-Coming soon...
+## OPTION A - Executable File (Easy, Windows Only)
+Download the executable file from the Releases tab or [here](https://github.com/pinapelz/donder-hiroba-to-mirage-import/releases/download/v1.0/taiko_donder_hiroba_export.exe)
+
+That's it. Go to step 2
 
 ## OPTION B - From Source (Advanced)
 1. Install Python. Follow the instructions [here](https://github.com/PackeTsar/Install-Python/blob/master/README.md) if you need help.
@@ -56,4 +58,5 @@ If you used the Source method (Option A), you can now finally export your scores
 python3 taiko_donder_hiroba_export.py --token <YOUR_TOKEN_VALUE>
 ```
 
-Option B.. Coming soon....
+**Option B**
+- If you downloaded the executable in step 1, just run it and follow the prompts
